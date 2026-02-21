@@ -26,6 +26,3 @@ Set the inputs and verify the outputs match the expected results:
 | 1 1 0         | 0          | 1           |
 | 1 1 1         | 1          | 1           |
 
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
