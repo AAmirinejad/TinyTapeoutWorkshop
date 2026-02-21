@@ -9,11 +9,22 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A full adder adds three 1-bit inputs: a, b, and cin (carry-in). It produces two outputs: sum and cout (carry-out).
 
 ## How to test
 
-Explain how to use your project
+Set the inputs and verify the outputs match the expected results:
+
+| input a b cin | output sum | output cout |
+|---------------|------------|-------------|
+| 0 0 0         | 0          | 0           |
+| 0 0 1         | 1          | 0           |
+| 0 1 0         | 1          | 0           |
+| 0 1 1         | 0          | 1           |
+| 1 0 0         | 1          | 0           |
+| 1 0 1         | 0          | 1           |
+| 1 1 0         | 0          | 1           |
+| 1 1 1         | 1          | 1           |
 
 ## External hardware
 
