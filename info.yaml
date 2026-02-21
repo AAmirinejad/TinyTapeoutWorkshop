@@ -4,7 +4,7 @@ project:
   title:        "Full Adder"      # Project title
   author:       "Sepehr"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "A full adder adds three 1-bit inputs: a, b, and cin (carry-in). It produces two outputs: sum and cout (carry-out)."      # One line description of what your project does
+  description:  "A full adder adds three 1-bit inputs: a, b, and cin (carry-in). It produces two outputs: sum and cout (carry-out). "      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
